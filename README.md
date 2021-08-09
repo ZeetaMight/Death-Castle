@@ -1,2 +1,2 @@
-# Death-Castle
-Updates for my game Death Castle
+# The Legend of the 4 Heroes
+Updates for my game The Legend of the 4 Heroes
